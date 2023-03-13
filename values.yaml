@@ -4,7 +4,7 @@
 
 replicaCount: 1
 image:
-  repository: nkhare/rsvp
+  repository: dorariel1987/rsvp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "9bc1d56d78c4b549d843087682e798cc6b6634b3"
