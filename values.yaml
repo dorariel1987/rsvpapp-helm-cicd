@@ -4,10 +4,10 @@
 
 replicaCount: 1
 image:
-  repository: docker.io/dorariel1987/rsvpapp
+  repository: dorariel1987/rsvp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "9bc1d56d78c4b549d843087682e798cc6b6634b3"
+  tag: "eb05ac652e119402fec5ba52f16c720419459d3b"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
